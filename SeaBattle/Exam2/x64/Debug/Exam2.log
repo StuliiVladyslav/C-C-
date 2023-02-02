@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Programs\Visual Studio\Repos\Exam2\Exam2\main.cpp(2230,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programs\Visual Studio\Repos\Exam2\Exam2\main.cpp(2390,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\Programs\Visual Studio\Repos\Exam2\Exam2\main.cpp(2405,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\Programs\Visual Studio\Repos\Exam2\Exam2\main.cpp(2420,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\Programs\Visual Studio\Repos\Exam2\Exam2\main.cpp(2436,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  Exam2.vcxproj -> D:\Programs\Visual Studio\Repos\Exam2\x64\Debug\Exam2.exe
